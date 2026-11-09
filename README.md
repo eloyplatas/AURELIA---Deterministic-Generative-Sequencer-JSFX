@@ -1,6 +1,8 @@
 # Aurelia 1.3
+<img width="1280" height="760" alt="aurelia-1 2-a" src="https://github.com/user-attachments/assets/5239b581-5bd1-488a-ae7d-42c7d3c31e18" />
 
-Secuenciador generativo MIDI de 4 voces para REAPER (JSFX). Nació en la familia estocástica y en la 1.2 incorpora las familias serial, fractal, de autómatas, espacial, euclídea, de restricciones e interválica: 14 motores en total.
+
+Secuenciador generativo MIDI de 4 voces para REAPER (JSFX). Cubre estocástica, serial, fractal, de autómatas, espacial, euclídea, de restricciones e interválica: 14 motores en total.
 
 ## Voces y modos
 
@@ -113,7 +115,7 @@ Cada voz tiene tres interruptores. Con los tres apagados, la voz es independient
   - La distancia es la de Tenney (log₂ de numerador × denominador del intervalo justo): unísono 0, quinta 2,6, cuarta 3,6, sexta mayor 3,9, tercera mayor 4,3, tercera menor 4,9… Cada octava suma 1.
   - Cada nota se mueve a la más cercana que cumpla el límite.
 
-## Manejo (como GenderBender P23)
+## Manejo 
 
 - Knobs: arrastra en vertical (Mayús = fino), usa la rueda, o haz clic derecho o Ctrl+clic para volver al valor inicial.
 - Selectores: flechas `<` `>`, rueda, o clic en el centro para abrir el menú.
